@@ -1,0 +1,3 @@
+For all the codes, just run make and mpirun -n <number of proc> a.out <datafile>
+
+For the sake of having a smaller file to submit, I removed the datasets.
